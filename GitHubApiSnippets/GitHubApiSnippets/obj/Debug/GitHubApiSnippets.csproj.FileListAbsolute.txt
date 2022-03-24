@@ -1,0 +1,10 @@
+C:\Users\SormitaChakraborty\source\repos\GitHubApiSnippets\GitHubApiSnippets\GitHubApiSnippets\bin\Debug\GitHubApiSnippets.exe.config
+C:\Users\SormitaChakraborty\source\repos\GitHubApiSnippets\GitHubApiSnippets\GitHubApiSnippets\bin\Debug\GitHubApiSnippets.exe
+C:\Users\SormitaChakraborty\source\repos\GitHubApiSnippets\GitHubApiSnippets\GitHubApiSnippets\bin\Debug\GitHubApiSnippets.pdb
+C:\Users\SormitaChakraborty\source\repos\GitHubApiSnippets\GitHubApiSnippets\GitHubApiSnippets\bin\Debug\Octokit.dll
+C:\Users\SormitaChakraborty\source\repos\GitHubApiSnippets\GitHubApiSnippets\GitHubApiSnippets\bin\Debug\Octokit.xml
+C:\Users\SormitaChakraborty\source\repos\GitHubApiSnippets\GitHubApiSnippets\GitHubApiSnippets\obj\Debug\GitHubApiSnippets.csprojAssemblyReference.cache
+C:\Users\SormitaChakraborty\source\repos\GitHubApiSnippets\GitHubApiSnippets\GitHubApiSnippets\obj\Debug\GitHubApiSnippets.csproj.CoreCompileInputs.cache
+C:\Users\SormitaChakraborty\source\repos\GitHubApiSnippets\GitHubApiSnippets\GitHubApiSnippets\obj\Debug\GitHubApiSnippets.csproj.CopyComplete
+C:\Users\SormitaChakraborty\source\repos\GitHubApiSnippets\GitHubApiSnippets\GitHubApiSnippets\obj\Debug\GitHubApiSnippets.exe
+C:\Users\SormitaChakraborty\source\repos\GitHubApiSnippets\GitHubApiSnippets\GitHubApiSnippets\obj\Debug\GitHubApiSnippets.pdb
